@@ -7,6 +7,10 @@ hr {
     border-top: 3px double #8c8b8b;
 }
 
+.cen-container {
+    color: lavender;
+}
+
 .center {
     text-align: center;
 }
