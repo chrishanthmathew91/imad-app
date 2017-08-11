@@ -15,18 +15,6 @@ hr {
     clear: none;
 }
 
-.img-container {
-    position:relative;
-    top: 20px;
-    left: 20px;
-}
-
-.name-container {
-    position: relative;
-    text-align: center;
-    margin: 0 auto;
-}
-
 .text-big {
     font-size: 300%;
 }
