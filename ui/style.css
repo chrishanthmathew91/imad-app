@@ -7,14 +7,14 @@ hr {
     border-top: 3px double #8c8b8b;
 }
 
-.cen-container {
-    background-color: lavender;
-}
-
 .img-name-container {
     float: left;
     clear: none;
     text-align: center;
+}
+
+.details-container {
+    margin-left: 20px;
 }
 
 .text-big {
