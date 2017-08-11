@@ -10,17 +10,19 @@ hr {
     background-color: lavender;
 }
 
+.img-name-container {
+    position: absolute;
+    display: flex;
+}
+
 .img-container {
     position:relative;
     top: 20px;
     left: 20px;
-    float: left;
-    overflow: hidden;
 }
 
 .name-container {
-    float: left;
-    overflow: hidden;
+    position: relative;
 }
 
 .text-big {
