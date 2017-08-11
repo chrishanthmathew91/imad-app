@@ -11,9 +11,8 @@ hr {
 }
 
 .img-name-container {
-    position: absolute;
-    text-align: center;
-    display: flex;
+    float: left;
+    clear: none;
 }
 
 .img-container {
