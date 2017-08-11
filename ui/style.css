@@ -12,6 +12,7 @@ hr {
 
 .img-name-container {
     position: absolute;
+    text-align: center;
     display: flex;
 }
 
@@ -25,7 +26,6 @@ hr {
     position: relative;
     text-align: center;
     margin: 0 auto;
-    padding-top: 100px;
 }
 
 .text-big {
