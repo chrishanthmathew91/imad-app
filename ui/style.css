@@ -12,7 +12,8 @@ hr {
 }
 
 .center {
-    text-align: center;
+    position: relative;
+    
 }
 
 .text-big {
