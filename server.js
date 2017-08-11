@@ -98,8 +98,8 @@ app.get('/submit-comment', function (req, res) {
     var jsonarray = [];
     for (i=0; i<names.length; i++) {
         jsonarray.push({
-            name: names[i].text,
-            comment: comments[i].text
+            name: names[i],
+            comment: comments[i]
         });
     }
     res.send(JSON.stringify(jsonarray));
