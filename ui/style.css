@@ -23,6 +23,8 @@ hr {
 
 .name-container {
     position: relative;
+    text-align: center;
+    margin: 0 auto;
 }
 
 .text-big {
