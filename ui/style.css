@@ -30,7 +30,7 @@ hr {
 
 .container {
     float: left;
-    
+    max-width: 1000px;
     margin: auto;
     color: #a6a6a6;
     font-family: sans-serif;
