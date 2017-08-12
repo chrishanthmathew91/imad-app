@@ -30,6 +30,7 @@ hr {
 
 .container {
     float: left;
+    text-align: center;
     max-width: 900px;
     margin: 0 auto;
     color: #a9a6a6;
