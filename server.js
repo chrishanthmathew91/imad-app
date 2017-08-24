@@ -2,7 +2,7 @@ var express = require('express');
 var morgan = require('morgan');
 var path = require('path');
 
-const { Pool, Client } = require('pg');
+const { Pool } = require('pg')
 
 var config = {
   user: 'chrishanthmathew91',
