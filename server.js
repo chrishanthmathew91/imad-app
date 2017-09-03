@@ -1,7 +1,7 @@
 var express = require('express');
 var morgan = require('morgan');
 var path = require('path');
-var crypto = required('crypto');
+var crypto = require('crypto');
 
 const Pool = require('pg').Pool;
 
